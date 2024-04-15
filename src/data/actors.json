@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Tom Hanks",
+    "age": "64"
+  },
+  {
+    "name": "Robert De Niro",
+    "age": "77"
+  },
+  {
+    "name": "Denzel Washington",
+    "age": "66"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "age": "46"
+  },
+  {
+    "name": "Morgan Freeman",
+    "age": "83"
+  },
+  {
+    "name": "Brad Pitt",
+    "age": "57"
+  },
+  {
+    "name": "Johnny Depp",
+    "age": "58"
+  },
+  {
+    "name": "Al Pacino",
+    "age": "81"
+  },
+  {
+    "name": "Tom Cruise",
+    "age": "59"
+  },
+  {
+    "name": "Christian Bale",
+    "age": "47"
+  }
+]

@@ -1,0 +1,7 @@
+body {
+  background-color: salmon;
+}
+.salmon-text {
+  color: white;
+  font-weight: bold;
+}
